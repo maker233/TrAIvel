@@ -1,0 +1,1 @@
+python routing_optimizer.py -t 90 -sp 3.5 -fm footMatrix.csv -mm subwayMatrix.csv -f pois_desc_complete.csv -s "Relevants" -n 10 -o default -d poisGeoCoords_Descript.csv
